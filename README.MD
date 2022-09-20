@@ -8,11 +8,14 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 [🔗Clique aqui para acessar](https://jorginhoo.github.io/nlw-esports/)
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Biblioteca
 
 - HTML
 - CSS
+- JavaScript
 - Git e Github
+- Swiper
+
 
 ## 🌐 Contato
 
